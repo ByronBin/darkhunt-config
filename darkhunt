@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "comment": "DarkHunt Phoenix Protocol - V3.0 Final (Full Armor)",
+  
+  "api_domains": [
+    "https://dh-core.top",
+    "https://dh-api.top",
+    "https://api.darkhunt99.com"
+  ],
+  
+  "h5_url": "https://dh99001.top",
+  
+  "backup_h5_urls": [
+    "https://dh99002.top",
+    "https://dh99003.top",
+    "https://dh99004.top",
+    "https://dh99005.top"
+  ],
+  
+  "android_download": "https://dh99.top",
+  "ios_download": "https://dh99.top",
+  
+  "notice": "⚠️ 防失联警告：请务必收藏永久发布页 [dh99.top]",
+  
+  "force_update": {
+    "min_version": "1.0.0",
+    "download_url": "https://dh99.top"
+  }
+}
